@@ -19,7 +19,7 @@ Title: Quantifying the age peaks, age ranges and weights of detrital ages based 
 # How to run
 
 1. Download all files in the folders including Application and Source codes.
-2. Double click ‘DzageEM.exe’ to open the GUI.
+2. Double click ‘DzageEM.exe’ in the Application folde to open the GUI.
 3. Please strictly follow 'User Manual of DzageEM.doc' in the root or in the Application folder to analyse data.
  
 ---------------------------------------------------------------------------------------------------------------
