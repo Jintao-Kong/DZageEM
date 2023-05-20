@@ -11,9 +11,9 @@ Title: Quantifying the age peaks, age ranges and weights of detrital ages based 
 ---------------------------------------------------------------------------------------------------------------
 # Requirements
 
-Program language: MATLAB
-Software required: MATLAB R2018a
-Operating system: Windows 10+
+1. Program language: MATLAB
+2. Software required: MATLAB R2018a
+3. Operating system: Windows 10+
 
 ---------------------------------------------------------------------------------------------------------------
 # How to run
