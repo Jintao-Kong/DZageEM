@@ -7,7 +7,6 @@ It is designed to quantify the major age peaks, age ranges, and weights for a se
 # The Manuscript
 
 Title: Quantifying the age peaks, age ranges and weights of detrital ages based on the EM algorithm
-Author: Jintao Kong
 
 ---------------------------------------------------------------------------------------------------------------
 # Requirements
